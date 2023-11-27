@@ -9,3 +9,11 @@ It's Tina Huynh Le, former project manager in the middle of a career change.
 🧑‍💻 Full stack developer student at Spiced Academy by day,  
 🎶 board member of a small indie music festival by night.  </p>
 
+## Talk to me!
+<a href="mailto:huynhletina@gmail.com">
+    <img height="32" align="left" alt="Mail" src="gmail.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/tinahuynhle/">
+    <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
+</a>
