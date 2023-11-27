@@ -1,4 +1,6 @@
-# Hello, welcome, xin chào! It's Tina Huynh Le. 🙂
+![header](header.png)
+<br>
+<br>
 I'm a former project manager in the middle of a career change. Running an executive MBA- and LL.M.-programm wasn't doing it for me anymore, so I decided to turn the passion for coding, that sparked in the good ol' MySpace-times, into an occupation.
 <br>
 <br>
