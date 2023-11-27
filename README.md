@@ -9,12 +9,16 @@ I'm a former project manager in the middle of a career change. Running an execut
 <img src="giphyboth.gif" width="200" align="right">
 <p align="left"> 
      
+- ✨ Pronouns: she/her
 - 📍 Born, raised and based in Berlin
 -  🌏 But rooted in Vietnam
 -  🧑‍💻 Full stack developer student at Spiced Academy by day
 -  🎶 Board member of a small indie music festival by night  </p>
 <br>
 <br>
+
+## Current projects
+<img src="giphyloading.gif" height="100">
 
 ## Talk to me!
 <a href="mailto:huynhletina@gmail.com">
