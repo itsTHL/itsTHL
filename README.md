@@ -1,7 +1,7 @@
 ![header](header.png)
 <br>
 <br>
-I'm a former project manager in the middle of a career change. Running an executive MBA- and LL.M.-programm wasn't doing it for me anymore, so I decided to turn the passion for coding, that sparked in the good ol' MySpace-times, into an occupation.
+Emerging junior full stack web dev and former project manager that just decided to turn the passion for coding, that sparked in the good ol' MySpace-times, into an occupation.
 <br>
 <br>
 
@@ -12,15 +12,9 @@ I'm a former project manager in the middle of a career change. Running an execut
 - ✨ Pronouns: she/her
 - 📍 Born, raised and based in Berlin
 -  🌏 But rooted in Vietnam
--  🧑‍💻 Full stack developer student at Spiced Academy by day
--  🎶 Board member of a small indie music festival by night  </p>
+-  🧑‍💻 Full stack web dev student at Spiced Academy by day
+-  🎶 Board member of the lovely <a href="www.immergutrocken.de">Immergut Festival</a> by night  </p>
 <br>
-<br>
-
-## Current projects
-<img src="giphyloading.gif" height="100">
-
-## Talk to me!
 <a href="mailto:huynhletina@gmail.com">
     <img height="32" align="left" alt="Mail" src="gmail.png" />
 </a>
@@ -28,3 +22,9 @@ I'm a former project manager in the middle of a career change. Running an execut
 <a href="https://www.linkedin.com/in/tinahuynhle/">
     <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
+<br>
+<br>
+<br>
+
+
+[![itsTHL's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsTHL&show_icons=true&hide=contribs&theme=catppuccin_mocha)](https://github.com/itsTHL/github-readme-stats)
